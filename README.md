@@ -1,4 +1,12 @@
+# FLASK DEMO ON HERAKU
+
+#HEROKUDEPLOYMENT
+[2019: Krish Naik Tutorial 2- Deployment of ML models in Heroku using FLASK](https://www.youtube.com/watch?v=mrExsjcvF4o)<br>
+
 2020.08.29
+
+
+
 
 or create a new repository on the command line
 
