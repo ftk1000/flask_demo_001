@@ -1,9 +1,14 @@
 # FLASK DEMO ON HERAKU
 
-#HEROKUDEPLOYMENT
+#HEROKUDEPLOYMENT<br>
 [2019: Krish Naik Tutorial 2- Deployment of ML models in Heroku using FLASK](https://www.youtube.com/watch?v=mrExsjcvF4o)<br>
 
+### https://salpred123.herokuapp.com/predict
+[Here is deployed code](https://salpred123.herokuapp.com/predict)<br>
+
 2020.08.29
+
+
 
 
 
